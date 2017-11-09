@@ -6,4 +6,4 @@
 5. Enjoy Alchemy API NLP service
 
 ### Update: This API has been replaced by IBM Natural Language Understanding API. See link for migration instructions from Alchemy API
-(https://www.ibm.com/watson/developercloud/doc/natural-language-understanding/migrating.html)
+https://www.ibm.com/watson/developercloud/doc/natural-language-understanding/migrating.html
