@@ -1,4 +1,4 @@
-## Example app that extracts keywords from given text by implementing Natural language processing (NLP) Alchemy
+## Android app that extracts keywords from a given text by implementing Natural Language Processing (NLP) with Alchemy API
 1. Create an IBM Bluemix account
 2. Create an Alchemy API service
 3. Get your API key
