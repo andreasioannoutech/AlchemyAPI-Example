@@ -5,5 +5,5 @@
 4. Import alchemy java sdk with gradle: compile 'com.ibm.watson.developer_cloud:alchemy:3.5.1'
 5. Enjoy Alchemy API NLP service
 
-### Update: This API has been replaced by IBM Natural Language Understanding API. See link for migration instructions from Alchemy API
-https://www.ibm.com/watson/developercloud/doc/natural-language-understanding/migrating.html
+### Update: This API has been replaced by IBM Natural Language Understanding API.
+Link for migration instructions: https://www.ibm.com/watson/developercloud/doc/natural-language-understanding/migrating.html
